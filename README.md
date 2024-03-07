@@ -10,3 +10,7 @@ might help with the notation for mathematical expressions.
 $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
+
+
+## Answer
+A example of two graphs that are isomorphic and also not completely connected would be where each of the graphs has two nodes with no connection to any edges. This makes the graphs isomorphic becuase there exists a function that maps A to B and the function is one to one and onto.
